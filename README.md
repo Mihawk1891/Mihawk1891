@@ -1,6 +1,6 @@
 <!-- Profile README for Mihawk1891 -->
 
-<h1 align="center">Hi there, I'm Mihawk1891 👋</h1>
+<h1 align="center">Hi there, I'm Pranav Bansode 👋</h1>
 <p align="center">
   <b>AI Developer | Generative AI & Machine Learning Specialist | Data Scientist | Ethical AI Advocate</b>
 </p>
