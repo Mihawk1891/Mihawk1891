@@ -52,10 +52,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **Revolutionizing historical linguistics with Generative AI:**
-- Fine-tuned LLMs on ancient script corpora  
-- Developed custom **RAG pipelines** for contextual analysis  
-- Combined NLP & Computer Vision for **multi-modal insights**  
-- Achieved **87% accuracy** in symbol-sequence mapping  
+- Fine-tuned LLMs on ancient script corpora
+- Developed custom RAG pipeline for contextual analysis
+- Implemented multi-modal approach combining NLP and CV
+- Achieved 87% accuracy in symbol-sequence mapping
 
 ```python
 def decipher_script(artifacts):
@@ -63,23 +63,19 @@ def decipher_script(artifacts):
     model = IndusTransformer()
     insights = model.generate_linguistic_hypotheses(artifacts)
     return validate_with_historical_context(insights)
-````
+```
 
 ### [MedVision: AI-Powered Diagnostic Assistant](https://github.com/Mihawk1891/MedVision)
-
 **Medical imaging analysis with explainable AI:**
-
-* 3D CNN architecture for volumetric scans
-* SHAP-based model interpretability
-* HIPAA-compliant data pipeline
+- 3D CNN architecture for volumetric scans
+- SHAP-based model interpretability
+- HIPAA-compliant data pipeline
 
 ### [EthicalGuard: AI Bias Detection Framework](https://github.com/Mihawk1891/EthicalGuard)
-
 **Ensuring fairness in machine learning models:**
-
-* Bias quantification metrics
-* Automated fairness testing
-* Mitigation recommendation engine
+- Bias quantification metrics
+- Automated fairness testing
+- Mitigation recommendation engine
 
 ---
 
@@ -100,30 +96,33 @@ def decipher_script(artifacts):
 
 ## 🌟 Core Principles
 
-1. **Ethical AI Development** – Building transparent, fair, and accountable AI systems
-2. **Historical Preservation** – Using technology to decode and preserve ancient knowledge
-3. **Cross-Disciplinary Innovation** – Bridging AI with archaeology, linguistics, and medicine
-4. **Open Knowledge Sharing** – Contributing to open-source and academic communities
+1. **Ethical AI Development**  
+   Building transparent, fair, and accountable AI systems
+2. **Historical Preservation**  
+   Using technology to decode and preserve ancient knowledge
+3. **Cross-Disciplinary Innovation**  
+   Bridging AI with archaeology, linguistics, and medicine
+4. **Open Knowledge Sharing**  
+   Contributing to open-source and academic communities
 
 ---
 
 ## 🎨 Beyond Code
 
-* 🧩 **Ancient Script Research**: Contributing to Indus Valley script decipherment efforts
-* 📚 **Technical Writing**: Authoring articles on AI ethics and generative models
-* 🎓 **Mentorship**: Guiding aspiring AI developers through hackathons and projects
-* ♟️ **Strategy Games**: Chess enthusiast & competitive puzzle solver
+- 🧩 **Ancient Script Research:** Contributing to Indus Valley script decipherment efforts
+- 📚 **Technical Writing:** Authoring articles on AI ethics and generative models
+- 🎓 **Mentorship:** Guiding aspiring AI developers through hackathons and projects
+- ♟️ **Strategy Games:** Chess enthusiast and competitive puzzle solver
 
 ---
 
 ## 📫 Let's Collaborate!
 
-I’m always open to:
-
-* Research partnerships in AI/archaeology
-* Open-source contributions
-* Speaking engagements
-* Mentoring opportunities
+I'm always open to:
+- Research partnerships in AI/archaeology
+- Open-source contributions
+- Speaking engagements
+- Mentoring opportunities
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
@@ -141,7 +140,3 @@ I’m always open to:
   <img src="https://komarev.com/ghpvc/?username=Mihawk1891&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 ```
-
-
-
-
