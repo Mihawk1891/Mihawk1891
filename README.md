@@ -52,10 +52,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **Revolutionizing historical linguistics with Generative AI:**
-- Fine-tuned LLMs on ancient script corpora
-- Developed custom RAG pipeline for contextual analysis
-- Implemented multi-modal approach combining NLP and CV
-- Achieved 87% accuracy in symbol-sequence mapping
+- Fine-tuned LLMs on ancient script corpora  
+- Developed custom **RAG pipelines** for contextual analysis  
+- Combined NLP & Computer Vision for **multi-modal insights**  
+- Achieved **87% accuracy** in symbol-sequence mapping  
 
 ```python
 def decipher_script(artifacts):
@@ -65,17 +65,36 @@ def decipher_script(artifacts):
     return validate_with_historical_context(insights)
 ```
 
-### [MedVision: AI-Powered Diagnostic Assistant](https://github.com/Mihawk1891/MedVision)
-**Medical imaging analysis with explainable AI:**
-- 3D CNN architecture for volumetric scans
-- SHAP-based model interpretability
-- HIPAA-compliant data pipeline
+### [PulseVision: ECG Arrhythmia Detection](https://github.com/Mihawk1891/PulseVision)
+[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/PulseVision?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/PulseVision/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-### [EthicalGuard: AI Bias Detection Framework](https://github.com/Mihawk1891/EthicalGuard)
-**Ensuring fairness in machine learning models:**
-- Bias quantification metrics
-- Automated fairness testing
-- Mitigation recommendation engine
+**Clinical-grade cardiac rhythm analysis:**
+- CNN architecture achieving **95% accuracy** on MIT-BIH dataset  
+- Real-time ECG signal processing pipeline  
+- Model interpretability using Grad-CAM visualizations  
+- TensorFlow Lite deployment for edge devices  
+
+### [SaarAI: Student Analytics Engine](https://github.com/Mihawk1891/SaarAI)
+[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/SaarAI?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/SaarAI/stargazers)
+[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-blue?style=for-the-badge)](https://opensource.org/license/afl-3-0-php/)
+
+**AI-powered academic insights generator:**
+- Google Gemini integration for personalized report generation  
+- FERPA-compliant privacy management system  
+- Accessible PDF engine with dyslexia-friendly styling  
+- Multi-language support for diverse educational contexts  
+
+### [VividPal: Image Colorization System](https://github.com/Mihawk1891/VividPal)
+[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/VividPal?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/VividPal/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+**Bringing monochrome images to life:**
+- GAN-based architecture for realistic colorization  
+- Historical photo restoration capabilities  
+- Web interface with real-time preview  
+- Customizable color palette controls  
+
 
 ---
 
@@ -96,33 +115,29 @@ def decipher_script(artifacts):
 
 ## 🌟 Core Principles
 
-1. **Ethical AI Development**  
-   Building transparent, fair, and accountable AI systems
-2. **Historical Preservation**  
-   Using technology to decode and preserve ancient knowledge
-3. **Cross-Disciplinary Innovation**  
-   Bridging AI with archaeology, linguistics, and medicine
-4. **Open Knowledge Sharing**  
-   Contributing to open-source and academic communities
+1. **Ethical AI Development** – Building transparent, fair, and accountable AI systems  
+2. **Historical Preservation** – Using technology to decode and preserve ancient knowledge  
+3. **Cross-Disciplinary Innovation** – Bridging AI with archaeology, linguistics, and medicine  
+4. **Open Knowledge Sharing** – Contributing to open-source and academic communities  
 
 ---
 
 ## 🎨 Beyond Code
 
-- 🧩 **Ancient Script Research:** Contributing to Indus Valley script decipherment efforts
-- 📚 **Technical Writing:** Authoring articles on AI ethics and generative models
-- 🎓 **Mentorship:** Guiding aspiring AI developers through hackathons and projects
-- ♟️ **Strategy Games:** Chess enthusiast and competitive puzzle solver
+- 🧩 **Ancient Script Research** – Contributing to Indus Valley script decipherment efforts  
+- 📚 **Technical Writing** – Authoring articles on AI ethics and generative models  
+- 🎓 **Mentorship** – Guiding aspiring AI developers through hackathons and projects  
+- ♟️ **Strategy Games** – Chess enthusiast and competitive puzzle solver  
 
 ---
 
 ## 📫 Let's Collaborate!
 
 I'm always open to:
-- Research partnerships in AI/archaeology
-- Open-source contributions
-- Speaking engagements
-- Mentoring opportunities
+- Research partnerships in AI/archaeology  
+- Open-source contributions  
+- Speaking engagements  
+- Mentoring opportunities  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
