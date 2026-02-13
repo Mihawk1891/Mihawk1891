@@ -1,197 +1,236 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">Pranav Bansode</h1>
-<h3 align="center">AI Engineer • Autonomous ML Systems • LLM & Production AI Infrastructure</h3>
+
+<p align="center">
+AI/ML Engineer • Agentic AI advocate • ML Infrastructure • LLM Agents • Production ML
+</p>
+
+<p align="center">
+Creating intuitive AI systems designed for everyone</p>
 
 <p align="center">
   <a href="https://github.com/Mihawk1891">
-    <img src="https://komarev.com/ghpvc/?username=Mihawk1891&style=for-the-badge&color=blueviolet" />
+    <img src="https://komarev.com/ghpvc/?username=Mihawk1891&style=for-the-badge&color=8A2BE2"/>
   </a>
   <a href="https://github.com/Mihawk1891">
-    <img src="https://img.shields.io/github/followers/Mihawk1891?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Mihawk1891?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:pranavbansode2604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-# AI Engineer Building Autonomous ML Systems and Production AI Pipelines
+# Engineering Autonomous Intelligence Systems
 
-Focused on designing **self-optimizing ML agents, LLM-based systems, and production-ready AI infrastructure**.
+I build autonomous AI systems capable of independently performing machine learning engineering tasks — from raw data ingestion to production deployment.
 
-Core expertise includes:
+My work focuses on replacing manual ML workflows with intelligent, self-optimizing systems designed for real-world deployment.
 
-- Autonomous ML engineering systems
-- LLM pipelines, RAG, and intelligent agents
-- Production-grade ML pipelines and deployment
-- Efficient AI systems optimized for real-world hardware
-- Explainable and modular AI architectures
+Core focus areas:
 
----
+• Autonomous ML agents  
+• LLM-powered reasoning systems  
+• Production-grade ML pipelines  
+• Efficient AI systems optimized for constrained hardware  
+• Modular, explainable AI architectures  
 
-# Core Tech Stack
-
-### AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-5C4EE5?logo=optuna&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black)
-
-### LLM, Agents, and AI Systems
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-purple)
-![Autonomous Agents](https://img.shields.io/badge/Autonomous-Agents-blue)
-![LLM Engineering](https://img.shields.io/badge/LLM-Engineering-orange)
-
-### Data, Backend, and Infrastructure
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+These systems are designed as real engineering infrastructure, not experimental prototypes.
 
 ---
 
-# Featured Projects
+# Core Engineering Stack
+
+### Machine Learning
+Python • scikit-learn • PyTorch • Optuna • NumPy • Pandas
+
+### Autonomous Systems & Agents
+ML orchestration • Autonomous pipelines • LLM systems • Strategy memory systems
+
+### Infrastructure & Deployment
+Flask • Joblib • CLI systems • Docker-ready architectures • Modular pipeline design
+
+### Engineering Focus
+Production ML systems  
+Autonomous pipeline design  
+Model automation and orchestration  
+Compute-efficient AI engineering  
+
+---
+
+# Flagship Systems
 
 ---
 
 ## TuneLab ML Agent  
-Autonomous ML Engineer that builds production models from raw CSV data.
+Autonomous Machine Learning Engineer
 
 Repository:  
 https://github.com/Mihawk1891/TuneLab
 
-Key capabilities:
+TuneLab is a fully autonomous machine learning agent that builds production-ready ML models directly from raw CSV datasets without human intervention.
 
-- Fully autonomous ML pipeline
-- Automatic problem detection (classification/regression)
-- Feature engineering, training, and optimization
-- Strategy memory with dataset fingerprinting
-- Generates deployment-ready artifacts and reports
-- CPU-optimized — no GPU required
+Core capabilities:
 
-Architecture workflow:
+• Automatic dataset analysis and target detection  
+• Autonomous feature engineering and preprocessing  
+• Multi-model training and evaluation  
+• Hyperparameter optimization using Optuna  
+• Deployment-ready artifact generation  
+• Automated report and documentation generation  
+• Strategy memory system using dataset fingerprinting  
+• Incremental improvement through past learning reuse  
 
-Dataset → Feature Engineering → Model Selection → Hyperparameter Optimization → Artifact Generation → Strategy Memory
+Autonomous workflow architecture:
 
-Technical highlights:
+```
+Raw Dataset
+    ↓
+Dataset Fingerprinting
+    ↓
+Data Understanding
+    ↓
+Feature Engineering
+    ↓
+Multi-Model Training
+    ↓
+Hyperparameter Optimization
+    ↓
+Model Artifact Generation
+    ↓
+Strategy Memory Storage
+```
 
-- ~1,500 lines production code
-- Supports 9 ML models
-- Optuna-based hyperparameter optimization
-- Automatic artifact generation
-- Production deployment ready
+Engineering highlights:
 
-This system functions as a **fully autonomous ML engineer capable of building production-ready models without human intervention.**
+• Fully autonomous ML pipeline  
+• CPU-optimized, no GPU required  
+• Production deployment ready  
+• Strategy reuse across datasets  
+• Modular and extensible architecture  
+• ~1,500 lines production-grade code  
+
+This system functions as an autonomous ML engineer capable of independently producing deployable machine learning systems.
 
 ---
 
 ## Unpotatofy Utility  
-Production-ready modular GAN pipeline for intelligent image restoration.
+Autonomous GAN-Based Image Restoration System
 
 Repository:  
 https://github.com/Mihawk1891/unpotatofy
 
+Unpotatofy is a production-ready image enhancement pipeline using lightweight GAN architectures optimized for low-memory environments.
+
 Core capabilities:
 
-- Conditional enhancement pipeline based on image quality analysis
-- Lightweight GAN models optimized for low-memory GPUs
-- Sequential model loading for memory efficiency
-- Fully offline image restoration system
-- Explainable enhancement pipeline with JSON reports
+• Intelligent image quality analysis using classical CV metrics  
+• Conditional pipeline execution based on detected defects  
+• Automatic enhancement pipeline construction  
+• Fully modular enhancement architecture  
+• Fully offline operation  
 
-Integrated GAN models:
+Integrated enhancement models:
 
-- NAFNet — motion deblurring
-- Real-ESRGAN — super-resolution
-- DeOldify — colorization
+• NAFNet — motion blur restoration  
+• Real-ESRGAN — super-resolution enhancement  
+• DeOldify — grayscale image colorization  
+
+Pipeline architecture:
+
+```
+Input Image
+    ↓
+Quality Analysis
+    ↓
+Conditional Pipeline Builder
+    ↓
+Sequential Enhancement Execution
+    ↓
+Enhanced Output
+```
 
 Engineering highlights:
 
-- Runs on 4GB GPU or CPU
-- Intelligent enhancement decisions
-- Memory-optimized modular design
-- Production-grade error handling
-- Fully extensible architecture
+• Runs on 4GB GPU or CPU  
+• Sequential model loading to minimize memory usage  
+• Predictable and stable memory footprint  
+• Modular enhancement architecture  
+• Production-grade error handling and logging  
+• Explainable enhancement decision pipeline  
+• Fully offline execution capability  
 
-This project demonstrates **real-world deployment of efficient GAN pipelines under strict hardware constraints.**
+This system demonstrates deployment of efficient GAN-based restoration pipelines under strict hardware constraints.
 
 ---
 
 ## SaarAI  
-AI-powered academic intelligence and analytics system.
+LLM-Powered Academic Intelligence System
 
 Repository:  
 https://github.com/Mihawk1891/SaarAI
 
-Core capabilities:
+SaarAI is an intelligent system that uses large language models to automate academic analysis and structured report generation.
 
-- AI-driven academic report generation
-- Automated analysis pipelines
-- LLM integration for intelligent insights
-- Structured output and reporting system
-- Modular architecture for extensibility
+Capabilities:
 
-Focus areas:
+• Automated academic data processing  
+• LLM-based reasoning pipeline  
+• Structured report generation  
+• Modular AI pipeline architecture  
+• Autonomous insight generation  
 
-- LLM-based analysis pipelines
-- Structured data intelligence
-- Automated insights generation
+Engineering focus:
 
----
-
-# Engineering Focus Areas
-
-Current work is focused on building:
-
-- Autonomous AI engineering systems
-- Production-ready LLM pipelines
-- Intelligent ML agents
-- Efficient AI systems optimized for real hardware
-- Explainable AI and modular ML architectures
+LLM pipeline design  
+Autonomous reasoning workflows  
+Structured AI output systems  
 
 ---
 
-# GitHub Stats
+# Systems Engineering Philosophy
+
+All systems are designed using the following engineering principles:
+
+• Autonomous operation over manual control  
+• Production-ready system architecture  
+• Efficient hardware utilization  
+• Modular and extensible system design  
+• Explainable and deterministic behavior  
+• Real-world deployment readiness  
+
+Goal: build AI systems that function as independent engineering entities.
+
+---
+
+# Current Engineering Direction
+
+Actively building systems capable of operating as:
+
+• Autonomous machine learning engineers  
+• Self-optimizing ML pipelines  
+• LLM-powered reasoning agents  
+• Production AI infrastructure components  
+
+Focus is on autonomous intelligence capable of performing real engineering tasks.
+
+---
+
+# GitHub Engineering Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mihawk1891&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihawk1891&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mihawk1891&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihawk1891&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihawk1891&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihawk1891&theme=radical"/>
 </p>
-
----
-
-# System Design Philosophy
-
-Core principles applied across all projects:
-
-- Autonomous intelligence over manual pipelines
-- Production-ready architecture, not prototypes
-- Hardware-efficient AI design
-- Modular and extensible systems
-- Explainable decision pipelines
-
----
-
-# Current Direction
-
-Building systems that act as:
-
-- Autonomous ML Engineers
-- LLM-powered reasoning systems
-- Production AI infrastructure components
-- Intelligent automation agents
 
 ---
 
@@ -200,5 +239,3 @@ Building systems that act as:
 Email: pranavbansode2604@gmail.com  
 LinkedIn: https://www.linkedin.com/in/pranav-bansode-281793229/  
 GitHub: https://github.com/Mihawk1891
-
----
