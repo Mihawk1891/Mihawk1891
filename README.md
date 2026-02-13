@@ -1,157 +1,145 @@
+<!-- GitHub Profile README for Mihawk1891 -->
 
-<!-- Profile README for Mihawk1891 -->
-<h1 align="center">Hello World 👋, I'm Pranav Bansode</h1>
-<h3 align="center">Generative AI Specialist | Machine Learning Engineer | Ethical AI Advocate</h3>
+<h1 align="center">Pranav Bansode</h1>
+<h3 align="center">AI/ML Engineer • LLM Systems • Production-Grade AI Infrastructure</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
   <a href="https://github.com/Mihawk1891">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/Mihawk1891?label=Follow&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:pranavbansode2604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Building+Responsible+AI+Systems;Decoding+Ancient+Scripts+with+Generative+AI;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
-</div>
+---
+
+## 🚀 About Me
+
+AI Developer focused on building **production-ready LLM systems**, intelligent pipelines, and scalable ML infrastructure.
+
+- Designing end-to-end **RAG architectures**
+- Fine-tuning and evaluating **LLMs for domain-specific workflows**
+- Building robust **data ingestion & enrichment pipelines**
+- Deploying AI systems with monitoring, observability & CI/CD
+- Optimizing inference, cost, and system latency
+
+I prioritize engineering depth over demos.
 
 ---
 
-## 🔧 Technical Arsenal
+# 🧠 Core Expertise
 
-### 🧠 AI & Machine Learning
+## Large Language Models & GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)
 
-### ☁️ Cloud & Deployment
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+- LLM Fine-Tuning (Instruction + Domain Adaptation)
+- RAG (Vector DB + Retrieval Optimization)
+- Prompt Engineering & Evaluation
+- Model Benchmarking & Hallucination Reduction
+- Structured Output Pipelines
+
+---
+
+## ⚙️ Production & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
-### 📊 Data Engineering
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### [Lipi-AI: Indus Valley Script Decipherment](https://github.com/Mihawk1891/Lipi-AI)
-[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/Lipi-AI?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/Lipi-AI/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-**Revolutionizing historical linguistics with Generative AI:**
-- Fine-tuned LLMs on ancient script corpora  
-- Developed custom **RAG pipelines** for contextual analysis  
-- Combined NLP & Computer Vision for **multi-modal insights**  
-- Achieved **87% accuracy** in symbol-sequence mapping  
-
-```python
-def decipher_script(artifacts):
-    # Generative AI meets archaeology
-    model = IndusTransformer()
-    insights = model.generate_linguistic_hypotheses(artifacts)
-    return validate_with_historical_context(insights)
-```
-
-### [PulseVision: ECG Arrhythmia Detection](https://github.com/Mihawk1891/PulseVision)
-[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/PulseVision?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/PulseVision/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-**Clinical-grade cardiac rhythm analysis:**
-- CNN architecture achieving **95% accuracy** on MIT-BIH dataset  
-- Real-time ECG signal processing pipeline  
-- Model interpretability using Grad-CAM visualizations  
-- TensorFlow Lite deployment for edge devices  
-
-### [SaarAI: Student Analytics Engine](https://github.com/Mihawk1891/SaarAI)
-[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/SaarAI?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/SaarAI/stargazers)
-[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-blue?style=for-the-badge)](https://opensource.org/license/afl-3-0-php/)
-
-**AI-powered academic insights generator:**
-- Google Gemini integration for personalized report generation  
-- FERPA-compliant privacy management system  
-- Accessible PDF engine with dyslexia-friendly styling  
-- Multi-language support for diverse educational contexts  
-
-### [VividPal: Image Colorization System](https://github.com/Mihawk1891/VividPal)
-[![GitHub Stars](https://img.shields.io/github/stars/Mihawk1891/VividPal?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Mihawk1891/VividPal/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-**Bringing monochrome images to life:**
-- GAN-based architecture for realistic colorization  
-- Historical photo restoration capabilities  
-- Web interface with real-time preview  
-- Customizable color palette controls  
-
+- CI/CD for ML systems  
+- Model versioning & experiment tracking  
+- Containerized deployment  
+- Observability & performance testing  
+- Secure API-based model serving  
 
 ---
 
-## 📈 GitHub Stats & Activity
+# 🔥 Highlighted Projects
+
+## 🎧 TuneLab  
+**AI-powered audio intelligence & experimentation platform**
+
+- Modular ML experimentation pipeline  
+- Model evaluation and performance comparison  
+- Production-ready repo structure  
+- Extensible architecture for audio + LLM integrations  
+
+---
+
+## 🥔 unpotatofy  
+**Intelligent content transformation engine**
+
+- Automated text refinement pipeline  
+- LLM-backed semantic restructuring  
+- Clean modular backend design  
+- Designed for extensibility & API integration  
+
+---
+
+## 🎓 SaarAI  
+**LLM-powered academic analytics system**
+
+- Structured student data ingestion  
+- Automated report generation using LLM APIs  
+- Privacy-aware architecture  
+- PDF generation & multilingual support  
+
+---
+
+# 🏗 What I Build
+
+Instead of isolated models, I build:
+
+- AI systems with real-world deployment considerations  
+- Data ingestion → enrichment → embedding → retrieval pipelines  
+- Evaluation frameworks for LLM reliability  
+- Scalable inference services  
+- Clean, maintainable repository structures  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Mihawk1891">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mihawk1891&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihawk1891&layout=compact&theme=radical&langs_count=8" />
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mihawk1891&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihawk1891&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihawk1891&theme=radical" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mihawk1891&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌟 Core Principles
+# 🧩 Engineering Philosophy
 
-1. **Ethical AI Development** – Building transparent, fair, and accountable AI systems  
-2. **Historical Preservation** – Using technology to decode and preserve ancient knowledge  
-3. **Cross-Disciplinary Innovation** – Bridging AI with archaeology, linguistics, and medicine  
-4. **Open Knowledge Sharing** – Contributing to open-source and academic communities  
-
----
-
-## 🎨 Beyond Code
-
-- 🧩 **Ancient Script Research** – Contributing to Indus Valley script decipherment efforts  
-- 📚 **Technical Writing** – Authoring articles on AI ethics and generative models  
-- 🎓 **Mentorship** – Guiding aspiring AI developers through hackathons and projects  
-- ♟️ **Strategy Games** – Chess enthusiast and competitive puzzle solver  
+- Build for **scale**
+- Optimize for **clarity**
+- Measure before optimizing
+- Treat LLMs as systems, not magic APIs
+- Minimize hallucination, maximize determinism
 
 ---
 
-## 📫 Let's Collaborate!
+# 📫 Open To
 
-I'm always open to:
-- Research partnerships in AI/archaeology  
-- Open-source contributions  
-- Speaking engagements  
-- Mentoring opportunities  
+- AI Infrastructure Roles  
+- LLM Engineering Positions  
+- Research x Engineering Collaborations  
+- Advanced Agentic AI Systems  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-bansode-281793229/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:pranavbansode2604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/Mihawk1891">
-    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mihawk1891&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mihawk1891&color=blueviolet&style=flat-square" />
 </p>
-```
